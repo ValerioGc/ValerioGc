@@ -26,7 +26,7 @@
     <tr>
         <td valign="center" width="50%">
             <div align="center">
-                <img width="100%" height="100%" valign=center align=center src="assets/gifs/hackerino.gif" alt="hackerino" />
+                <img width="100%" height="100%" valign=center align=center src="assets/gifs/waterloo-roblox.gif" alt="hackerino" />
             </div>  
         </td>
         <td valign="center" width="50%">
