@@ -1,5 +1,5 @@
 
-<img  height=400px width="100%" src="assets/gifs/cover-github2.gif" alt="Cover ValerioGc" />
+<img  height="400vh" width="100%" src="assets/gifs/cover-github2.gif" alt="Cover ValerioGc" />
 
 <div>
     <span>
@@ -74,6 +74,7 @@
     <span style="font-size:25px;font-weight:bold;padding-left:5px">Skills</span>
 </div>
 
+ ----
  
 <br/>
 
@@ -107,10 +108,10 @@
             <img style="padding:20px" width="40px" valign=center align=center  src="assets/skills&tools/frameworks/sass.svg" alt="sass" />
         </span>
         <span>
-            <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/frameworks/JQuery.svg" alt="JQuery" />
+            <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/frameworks/jquery.svg" alt="JQuery" />
         </span>
         <span>
-            <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/frameworks/Laravel.svg" alt="Laravel" />
+            <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/frameworks/laravel.svg" alt="Laravel" />
         </span>
     </div>
 </details>
@@ -144,13 +145,13 @@
                 <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/vscode2.svg" alt="VSCode" />
             </span>
             <span>
-                <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/webstorm.svg" alt="WebStorm" />
+                <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/webStorm.svg" alt="WebStorm" />
             </span>
             <span>
                 <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/phpStorm.svg" alt="phpStorm" />
             </span>
             <span>
-                <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/intelliJ.svg" alt="IntelliJ Idea" />
+                <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/IntelliJ.svg" alt="IntelliJ Idea" />
             </span>
             <span>
                 <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/eclipse.svg" alt="eclipse" />
@@ -191,12 +192,12 @@
 
 <br/>   
 
-<table>
+<table align="center">
     <tr>
-        <td valign="top" width="50%">
+        <td valign="center" width="50%">
             <img src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&hide_border=true" align="left" height=120 />
         </td>
-        <td valign="top" width="50%">
+        <td valign="center" width="50%">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&hide_border=true&layout=compact" align="left"  height=120 />
         </td>
     </tr>
