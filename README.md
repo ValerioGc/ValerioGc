@@ -1,14 +1,13 @@
 
-
 <img  height=400px width="100%" src="assets/gifs/cover-github2.gif" alt="Cover ValerioGc" />
 
-
-<div style="width:80%;padding:20px 0; margin:auto">
+<div>
     <span>
         <img align=center height="50"  src="https://readme-typing-svg.demolab.com/?lines=🖥️+PC+Hardware+enthusiast" /> 
     </span>
-    <span valign=center>
-        <img width="150" src="https://komarev.com/ghpvc/?username=ValerioGc&&style=flat-square" align="center" /><span style="font-size:25px;padding-left:10px">👈</span>
+    <span valign=center align=left>
+        <img width="150" src="https://komarev.com/ghpvc/?username=ValerioGc&&style=flat-square" align="center" />
+        <span style="font-size:25px;padding-left:10px">👈</span>
     </span>
 </div>
     
@@ -22,17 +21,15 @@
 <br/>  
 
 
-
-<h2 align=right style="font-size:25px;font-weight:bold">Contacts 📡</h2>   
-<hr/>
-<table>
+<h2 align="right" style="font-size:25px;font-weight:bold">Contacts 📡</h2>   
+<table align="center">
     <tr>
-        <td valign="top" width="40%">
+        <td valign="center" width="50%">
             <div align="center">
-                    <img width="100%" height="100%" valign=center align=center src="assets/gifs/hackerino.gif" alt="hackerino" />
+                <img width="100%" height="100%" valign=center align=center src="assets/gifs/hackerino.gif" alt="hackerino" />
             </div>  
         </td>
-        <td valign="center" width="60%">
+        <td valign="center" width="50%">
             <p>
                 <img src=https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg alt="Italian flag" align="center" width="18" height="18" />  Rome, Italy
             </p>
@@ -73,11 +70,10 @@
 <br/>  
 
 <div align=right>
-    <img align=center  src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="40px" height="50px">
+    <img align=center src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="40px" height="50px">
     <span style="font-size:25px;font-weight:bold;padding-left:5px">Skills</span>
 </div>
 
-----
  
 <br/>
 
