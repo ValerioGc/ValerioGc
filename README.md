@@ -1,5 +1,5 @@
 
-<img  height="400vh" width="100%" src="assets/gifs/cover-github2.gif" alt="Cover ValerioGc" />
+<img  height="300vh" width="100%" src="assets/gifs/cover-github2.gif" alt="Cover ValerioGc" />
 
 <div>
     <span>
