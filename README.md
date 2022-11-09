@@ -1,17 +1,18 @@
 
 <img  height="300vh" width="100%" src="assets/gifs/cover-github2.gif" alt="Cover ValerioGc" />
 
-<div>
-    <span>
+<table width="100" border-width="0">
+<tr width=100vw style="width:50px">
+    <td width=700>
         <img align=center height="50"  src="https://readme-typing-svg.demolab.com/?lines=🖥️+PC+Hardware+enthusiast" /> 
-    </span>
-    <span valign=center align=left>
+    </td>
+    <td valign=center  width=300 align=center>
         <img width="150" src="https://komarev.com/ghpvc/?username=ValerioGc&&style=flat-square" align="center" />
         <span style="font-size:25px;padding-left:10px">👈</span>
-    </span>
-</div>
+    </td>
+</tr>
+    </table>
     
-
 <br/>  
 
 
