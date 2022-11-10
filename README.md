@@ -183,14 +183,31 @@
 
 <br/>   
 
-<table align="center">
-    <tr>
-        <td valign="center" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&hide_border=true" align="left" height=120 />
-        </td>
-        <td valign="center" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&hide_border=true&layout=compact" align="left"  height=120 />
-        </td>
-    </tr>
-</table>  
+
+
+
+
+<picture align=left>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact"(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact" />
+</picture>
+
+
+<picture align=right>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&theme=dark&count_private=true"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?ValerioGc=ValerioGc&show_icons=true&count_private=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true" />
+</picture>
 
