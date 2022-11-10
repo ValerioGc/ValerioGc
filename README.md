@@ -2,10 +2,22 @@
 
 
 
-<img  srcset="assets/gifs/cover2-sm.gif 853w, assets/gifs/cover2.gif 1280w"  sizes="(max-width: 600px) 853px,         1280px"  src="assets/gifs/cover2.gif"  alt="test" />
+<img srcset="assets/gifs/banner-sm.gif 853w, assets/gifs/banner.gif 1280w" sizes="(max-width: 600px) 853px, 1280px" src="assets/gifs/banner.gif" alt="Banner readme" />
 
   
   
+<table align=center width=1000>
+    <tr>
+        <td valign=center align=center>
+            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4500&pause=1000&color=3760F7&background=FFFFFF00&center=true&vCenter=true&lines=%F0%9F%96%A5%EF%B8%8F++PC+Hardware+Enthusiast" alt="Typing SVG" /></a>
+        </td>
+        <td valign=center align=center>
+            <img  width="150" src="https://komarev.com/ghpvc/?username=ValerioGc&&style=plastic" align="center" />
+            <span style="font-size:25px;padding-left:10px">👈</span>
+        </td>
+    </tr>
+</table>
+
 <table width="100">
     <tr width=100vw style="width:50px">
         <td width=700>
@@ -17,7 +29,15 @@
         </td>
     </tr>
 </table>
-    
+
+
+<div align=center >
+<span valign=center align=center>   
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4500&pause=1000&color=3760F7&background=FFFFFF00&center=true&vCenter=true&lines=%F0%9F%96%A5%EF%B8%8F++PC+Hardware+Enthusiast" alt="Typing SVG" /></a></span>
+<span valign=center>    
+    <img width="150" src="https://komarev.com/ghpvc/?username=ValerioGc&&style=plastic" align="center" />
+    <span style="font-size:25px;padding-left:10px">👈</span></span>
+</div>
 <br/>  
 
 
@@ -123,7 +143,6 @@
 </details>
 
 <br/>
-
 
 <details open>
 <hr/>
