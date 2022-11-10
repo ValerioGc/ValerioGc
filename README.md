@@ -1,22 +1,20 @@
 
-<img  height="300vh" width="100%" src="assets/gifs/cover-github2.gif" alt="Cover ValerioGc" />
 
+<img  srcset="assets/gifs/cover-github-sm.gif 853w, assets/gifs/cover-github.gif 1280w"  sizes="(max-width: 600px) 853px,         1280px"  src="assets/gifs/cover-github.gif"  alt="test" />
 
-<img  srcset="test.jpg 400w, test2.jpg 800w"  sizes="(max-width: 600px) 400px,         800px"  src="assets/test2.jpg"  alt="test" />
   
   
-  
-<table width="100" border-width="0">
-<tr width=100vw style="width:50px">
-    <td width=700>
-        <img align=center height="50"  src="https://readme-typing-svg.demolab.com/?lines=🖥️+PC+Hardware+enthusiast" /> 
-    </td>
-    <td valign=center  width=300 align=center>
-        <img width="150" src="https://komarev.com/ghpvc/?username=ValerioGc&&style=flat-square" align="center" />
-        <span style="font-size:25px;padding-left:10px">👈</span>
-    </td>
-</tr>
-    </table>
+<table width="100">
+    <tr width=100vw style="width:50px">
+        <td width=700>
+            <img align=center height="50"  src="https://readme-typing-svg.demolab.com/?lines=🖥️+PC+Hardware+enthusiast" /> 
+        </td>
+        <td valign=center  width=300 align=center>
+            <img width="150" src="https://komarev.com/ghpvc/?username=ValerioGc&&style=flat-square" align="center" />
+            <span style="font-size:25px;padding-left:10px">👈</span>
+        </td>
+    </tr>
+</table>
     
 <br/>  
 
@@ -130,21 +128,11 @@
     <summary align=center  style="font-size:18px;margin:20px 0"><strong>🛠️ Tools: </strong></></summary>
     <div align=center>
         <div align=center>
-            <span>
-                <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/mamp.svg" alt="mamp" />
-            </span>
-            <span>
-                <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/postman.svg" alt="postman" />
-            </span>
-            <span>
-                <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/inkscape.svg" alt="inkscape" />
-            </span>
-            <span>
-                <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/canva.svg" alt="canva" />
-            </span>
-            <span>
-                <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/slack1.svg" alt="slack" />                
-            </span>
+            <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/mamp.svg" alt="mamp" />
+            <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/postman.svg" alt="postman" />
+            <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/inkscape.svg" alt="inkscape" />
+            <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/canva.svg" alt="canva" />
+            <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/slack1.svg" alt="slack" />                
         </div>
         <div>
             <span>
