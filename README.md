@@ -1,14 +1,8 @@
 
 <img  height="300vh" width="100%" src="assets/gifs/cover-github2.gif" alt="Cover ValerioGc" />
 
-<img  srcset="test.jpg" 380w, test1.jpg 480w" sizes="(max-width:600px) 360px, 480px" src="assets/test.jpg" alt="Cover ValerioGc" />
 
-<img
-  srcset="test.jpg 480w, test1.jpg 800w"
-  sizes="(max-width: 600px) 480px,
-         800px"
-  src="test1.jpg"
-  alt="test" />
+<img  srcset="test.jpg 480w, test2.jpg 800w"  sizes="(max-width: 600px) 480px,         800px"  src="assets/test2.jpg"  alt="test" />
   
   
   
