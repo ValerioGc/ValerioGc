@@ -2,7 +2,7 @@
 <img  height="300vh" width="100%" src="assets/gifs/cover-github2.gif" alt="Cover ValerioGc" />
 
 
-<img  srcset="test.jpg 480w, test2.jpg 800w"  sizes="(max-width: 600px) 480px,         800px"  src="assets/test2.jpg"  alt="test" />
+<img  srcset="test.jpg 400w, test2.jpg 800w"  sizes="(max-width: 600px) 400px,         800px"  src="assets/test2.jpg"  alt="test" />
   
   
   
