@@ -1,6 +1,8 @@
 
 
-<img  srcset="assets/gifs/cover-github-sm.gif 853w, assets/gifs/cover-github.gif 1280w"  sizes="(max-width: 600px) 853px,         1280px"  src="assets/gifs/cover-github.gif"  alt="test" />
+
+
+<img  srcset="assets/gifs/cover2-sm.gif 853w, assets/gifs/cover2.gif 1280w"  sizes="(max-width: 600px) 853px,         1280px"  src="assets/gifs/cover2.gif"  alt="test" />
 
   
   
@@ -10,7 +12,7 @@
             <img align=center height="50"  src="https://readme-typing-svg.demolab.com/?lines=🖥️+PC+Hardware+enthusiast" /> 
         </td>
         <td valign=center  width=300 align=center>
-            <img width="150" src="https://komarev.com/ghpvc/?username=ValerioGc&&style=flat-square" align="center" />
+            <img width="150" src="https://komarev.com/ghpvc/?username=ValerioGc&&style=plastic" align="center" />
             <span style="font-size:25px;padding-left:10px">👈</span>
         </td>
     </tr>
