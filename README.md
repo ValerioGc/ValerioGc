@@ -25,11 +25,11 @@
 
 
 <h2 align="right" style="font-size:25px;font-weight:bold">Contacts 📡</h2>   
-<table align="center">
+<table align="center" width="100%">
     <tr>
         <td valign="center" width="50%">
             <div align="center">
-                <img width="100%" height="100%" valign=center align=center src="assets/gifs/waterloo-roblox.gif" alt="hackerino" />
+                <img width="50%" height= "100%" valign="center" align="center" src="assets/gifs/whereIsTheCode.gif" alt="gif" />
             </div>  
         </td>
         <td valign="center" width="50%">
@@ -43,36 +43,36 @@
                 📖 Currently <ins>learning</ins>:
             </p>
             <ul style="list-style:none">
-                <li style="padding:5px 0">
+                <li>
                     <img align="center" src="assets/skills&tools/skills/java.svg"  alt="Java" width="30px" /> <span>Java</span> 
                 </li>
-              <li style="padding:5px 0">
+              <li>
                     <img align="center" src="assets/skills&tools/frameworks/spring.svg"  alt="Spring" width="25px" /> <span style="padding: 0 5px"> Spring</span> 
                 </li>
             </ul>
         </td>
     </tr>
-    <tr align=center>
-        <td width="50%" style="padding:30px 0 20px">
+    <tr align="center">
+        <td width="50%">
             <a href="https://stackoverflow.com/users/Valerio Genco" target="_blank">
-                <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" width="120" height="25" />
+                <img src="assets/badges/stack%20overflow-pillls.svg.svg" alt="stackoverflow" width="100px" height="50px" />
             </a> 
         </td>
-        <td width="50%" style="padding:30px 0 20px">
+        <td width="50%">
             <a href="https://linkedin.com/in/valerio-genco" target="_blank">
-                <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" width=120 height=25 />
+                <img src="assets/badges/linkedin-simple.svg" width="100px"  height="50px" />
             </a> 
         </td>
     </tr>
 </table>  
-
+        <hr/>
 
 <br/>  
 <br/>  
 <br/>  
 
-<div align=right>
-    <img align=center src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="40px" height="50px">
+<div align="right">
+    <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="40px" height="50px">
     <span style="font-size:25px;font-weight:bold;padding-left:5px">Skills</span>
 </div>
 
@@ -80,40 +80,40 @@
  
 <br/>
 
-<details open align=center>
-   <summary align=center  style="font-size:18px;margin:20px"><strong> 🧱 Languages and frameworks</strong></summary>
-    <div align=center>
+<details open align="center">
+   <summary align="center"  style="font-size:18px;margin:20px"><strong> 🧱 Languages and frameworks</strong></summary>
+    <div align="center">
         <span>
-            <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/skills/html.svg"  alt="HTML5" />  
+            <img style="padding:20px" width="40px" valign="center" align="center" src="assets/skills&tools/skills/html-text.svg"  alt="HTML5" />  
         </span>
         <span>
-            <img style="padding:20px" width="40px" valign=center align=center  src="assets/skills&tools/skills/css.svg" alt="CSS3"  />
+            <img style="padding:20px" width="40px" valign="center" align="center"  src="assets/skills&tools/skills/css-text.svg" alt="CSS3"  />
         </span>
         <span>
-            <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/skills/javascript.svg"  alt="JavaScript" />	
+            <img style="padding:20px" width="40px" valign="center" align="center" src="assets/skills&tools/skills/javascript.svg"  alt="JavaScript" />	
         </span>
         <span>
-            <img style="padding:20px" width="40px" valign=center align=center  align="center" src="assets/skills&tools/skills/php.svg" alt="PHP 8" />
+            <img style="padding:20px" width="40px" valign="center" align="center"  align="center" src="assets/skills&tools/skills/php.svg" alt="PHP 8" />
         </span>
         <span>
-            <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/skills/mysql.svg"  alt="MySQL" />
+            <img style="padding:20px" width="40px" valign="center" align="center" src="assets/skills&tools/skills/mysql.svg"  alt="MySQL" />
         </span>
     </div>
     <div>
         <span>
-            <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/frameworks/bootstrap.svg" alt="bootstrap" />
+            <img style="padding:20px" width="40px" valign="center" align="center" src="assets/skills&tools/frameworks/bootstrap-text.svg" alt="bootstrap" />
         </span>
         <span>
-            <img src="assets/skills&tools/frameworks/vue.svg" style="padding:20px" width="40px" valign=center align=center  alt="Vue Js" />
+            <img src="assets/skills&tools/frameworks/vue-text.svg" style="padding:20px" width="40px" valign="center" align="center"  alt="Vue Js" />
         </span>
         <span>
-            <img style="padding:20px" width="40px" valign=center align=center  src="assets/skills&tools/frameworks/sass.svg" alt="sass" />
+            <img style="padding:20px" width="40px" valign="center" align="center"  src="assets/skills&tools/frameworks/sass.svg" alt="sass" />
         </span>
         <span>
-            <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/frameworks/jquery.svg" alt="JQuery" />
+            <img style="padding:20px" width="40px" valign="center" align="center" src="assets/skills&tools/frameworks/jquery-text.svg" alt="JQuery" />
         </span>
         <span>
-            <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/frameworks/laravel.svg" alt="Laravel" />
+            <img style="padding:20px" width="40px" valign="center" align="center" src="assets/skills&tools/frameworks/laravel-text.svg" alt="Laravel" />
         </span>
     </div>
 </details>
@@ -122,30 +122,30 @@
 
 <details open>
 <hr/>
-    <summary align=center  style="font-size:18px;margin:20px 0"><strong>🛠️ Tools: </strong></></summary>
-    <div align=center>
-        <div align=center>
-            <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/mamp.svg" alt="mamp" />
-            <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/postman.svg" alt="postman" />
-            <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/inkscape.svg" alt="inkscape" />
-            <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/canva.svg" alt="canva" />
-            <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/slack1.svg" alt="slack" />                
+    <summary align="center" style="font-size:18px;margin:20px 0"><strong>🛠️ Tools: </strong></></summary>
+    <div align="center">
+        <div align="center">
+            <img width="40px" valign="center" align="center" src="assets/skills&tools/tools/mamp.svg" alt="mamp" />
+            <img width="40px" valign="center" align="center" src="assets/skills&tools/tools/postman.svg" alt="postman" />
+            <img width="40px" valign="center" align="center" src="assets/skills&tools/tools/inkscape.svg" alt="inkscape" />
+            <img width="40px" valign="center" align="center" src="assets/skills&tools/tools/canva.svg" alt="canva" />
+            <img width="40px" valign="center" align="center" src="assets/skills&tools/tools/slack1.svg" alt="slack" />                
         </div>
         <div>
             <span>
-                <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/vscode2.svg" alt="VSCode" />
+                <img width="40px" valign="center" align="center" src="assets/skills&tools/tools/vscode.svg" alt="VSCode" />
             </span>
             <span>
-                <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/webStorm.svg" alt="WebStorm" />
+                <img width="40px" valign="center" align="center" src="assets/skills&tools/tools/webStorm.svg" alt="WebStorm" />
             </span>
             <span>
-                <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/phpStorm.svg" alt="phpStorm" />
+                <img width="40px" valign="center" align="center" src="assets/skills&tools/tools/phpStorm.svg" alt="phpStorm" />
             </span>
             <span>
-                <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/IntelliJ.svg" alt="IntelliJ Idea" />
+                <img width="40px" valign="center" align="center" src="assets/skills&tools/tools/IntelliJ.svg" alt="IntelliJ Idea" />
             </span>
             <span>
-                <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/tools/eclipse.svg" alt="eclipse" />
+                <img width="40px" valign="center" align="center" src="assets/skills&tools/tools/eclipse.svg" alt="eclipse" />
             </span>
         </div>
     </div>
@@ -155,19 +155,19 @@
 <br/>   
 <details open>
     <hr/>
-    <summary align=center  style="font-size:18px;margin:20px 0"><strong>🛠️ OS: </summary></strong>
+    <summary align="center"  style="font-size:18px;margin:20px 0"><strong>🛠️ OS: </summary></strong>
         <div align=center>
                 <span>
-                    <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/os/windows.svg" alt="windows" />
+                    <img width="40px" valign="center" align="center" src="assets/skills&tools/os/windows.svg" alt="windows" />
                 </span>
                 <span>
-                    <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/os/apple.svg" alt="macos" />
+                    <img width="40px" valign="center" align="center" src="assets/skills&tools/os/apple.svg" alt="macos" />
                 </span>
                 <span>
-                    <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/os/linux.svg" alt="linux" />
+                    <img width="40px" valign="center" align="center" src="assets/skills&tools/os/linux.svg" alt="linux" />
                 </span>
                 <span>
-                    <img style="padding:20px" width="40px" valign=center align=center src="assets/skills&tools/os/debian.svg" alt="debian" />
+                    <img width="40px" valign="center" align="center" src="assets/skills&tools/os/debian.svg" alt="debian" />
                 </span>
         </div>
 </details>
@@ -177,7 +177,7 @@
 
 
 
-<h2 align=right style="font-weight:bold;font-size:25px">📈 My Stats:</h2>
+<h2 align="right" style="font-weight:bold;font-size:25px">📈 My Stats:</h2>
 
 ----
 
@@ -185,21 +185,26 @@
 
 
 
-
-
-<div width=100% align=center>
+<div width=100% align="center">
   <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&theme=dark" media="(prefers-color-scheme: dark)"  />
   <source srcset="https://github-readme-stats.vercel.app/api?ValerioGc=ValerioGc&show_icons=true&count_private=truetheme=dark" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  />
   <img align="right" width="480px" height="200px" src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=truetheme=dark" />
   </picture>
 <!-- Profile Stats -->
+<br/>
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=dark" (prefers-color-scheme: dark)"/>
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=dark" (prefers-color-scheme: dark) />
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=dark"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
     <img align="left" width="480px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=dark" />
   </picture>
+</div>
+
+
+
+<div align="center">
+    <img src="assets/badges/made%20with%20markdown.svg" alt="custom-badge"  />
 </div>
