@@ -84,36 +84,36 @@
    <summary align="center"  style="font-size:18px;margin:20px"><strong> 🧱 Languages and frameworks</strong></summary>
     <div align="center">
         <span>
-            <img style="padding:20px" width="40px" valign="center" align="center" src="assets/skills&tools/skills/html-text.svg"  alt="HTML5" />  
+            <img width="40px" valign="center" align="center" src="assets/skills&tools/skills/html-text.svg"  alt="HTML5" />  
         </span>
         <span>
-            <img style="padding:20px" width="40px" valign="center" align="center"  src="assets/skills&tools/skills/css-text.svg" alt="CSS3"  />
+            <img width="40px" valign="center" align="center"  src="assets/skills&tools/skills/css-text.svg" alt="CSS3"  />
         </span>
         <span>
-            <img style="padding:20px" width="40px" valign="center" align="center" src="assets/skills&tools/skills/javascript.svg"  alt="JavaScript" />	
+            <img width="40px" valign="center" align="center" src="assets/skills&tools/skills/javascript.svg"  alt="JavaScript" />	
         </span>
         <span>
-            <img style="padding:20px" width="40px" valign="center" align="center"  align="center" src="assets/skills&tools/skills/php.svg" alt="PHP 8" />
+            <img width="40px" valign="center" align="center"  align="center" src="assets/skills&tools/skills/php.svg" alt="PHP 8" />
         </span>
         <span>
-            <img style="padding:20px" width="40px" valign="center" align="center" src="assets/skills&tools/skills/mysql.svg"  alt="MySQL" />
+            <img width="40px" valign="center" align="center" src="assets/skills&tools/skills/mysql.svg"  alt="MySQL" />
         </span>
     </div>
     <div>
         <span>
-            <img style="padding:20px" width="40px" valign="center" align="center" src="assets/skills&tools/frameworks/bootstrap-text.svg" alt="bootstrap" />
+            <img width="40px" valign="center" align="center" src="assets/skills&tools/frameworks/bootstrap-text.svg" alt="bootstrap" />
         </span>
         <span>
             <img src="assets/skills&tools/frameworks/vue-text.svg" style="padding:20px" width="40px" valign="center" align="center"  alt="Vue Js" />
         </span>
         <span>
-            <img style="padding:20px" width="40px" valign="center" align="center"  src="assets/skills&tools/frameworks/sass.svg" alt="sass" />
+            <img width="40px" valign="center" align="center"  src="assets/skills&tools/frameworks/sass.svg" alt="sass" />
         </span>
         <span>
-            <img style="padding:20px" width="40px" valign="center" align="center" src="assets/skills&tools/frameworks/jquery-text.svg" alt="JQuery" />
+            <img width="40px" valign="center" align="center" src="assets/skills&tools/frameworks/jquery-text.svg" alt="JQuery" />
         </span>
         <span>
-            <img style="padding:20px" width="40px" valign="center" align="center" src="assets/skills&tools/frameworks/laravel-text.svg" alt="Laravel" />
+            <img width="40px" valign="center" align="center" src="assets/skills&tools/frameworks/laravel-text.svg" alt="Laravel" />
         </span>
     </div>
 </details>
@@ -151,8 +151,8 @@
     </div>
 </details>
 
-
 <br/>   
+
 <details open>
     <hr/>
     <summary align="center"  style="font-size:18px;margin:20px 0"><strong>🛠️ OS: </summary></strong>
@@ -177,12 +177,11 @@
 
 
 
-<h2 align="right" style="font-weight:bold;font-size:25px">📈 My Stats:</h2>
+<h2 align="right">📈 My Stats:</h2>
 
 ----
 
 <br/>   
-
 
 
 <div width=100% align="center">
@@ -205,6 +204,6 @@
 
 
 
-<div align="center">
-    <img src="assets/badges/made%20with%20markdown.svg" alt="custom-badge"  />
+<div align="center" width="100%" valign=center>
+    <img src="assets/badges/made-with-markdown.svg" alt="custom-badge"  />
 </div>
