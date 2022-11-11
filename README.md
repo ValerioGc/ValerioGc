@@ -29,7 +29,7 @@
     <tr>
         <td valign="center" width="50%">
             <div align="center">
-                <img width="50%" height= "100%" valign="center" align="center" src="assets/gifs/whereIsTheCode.gif" alt="gif" />
+                <img height= "100%" valign="center" align="center" src="assets/gifs/whereIsTheCode.gif" alt="gif" />
             </div>  
         </td>
         <td valign="center" width="50%">
