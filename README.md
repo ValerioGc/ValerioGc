@@ -55,17 +55,17 @@
     <tr align="center">
         <td width="50%">
             <a href="https://stackoverflow.com/users/Valerio Genco" target="_blank">
-                <img src="assets/badges/stack%20overflow-pillls.svg.svg" alt="stackoverflow" width="100px" height="50px" />
+                <img src="assets/badges/stack-simple.svg" alt="stackoverflow" width="100px" height="50px" />
             </a> 
         </td>
         <td width="50%">
             <a href="https://linkedin.com/in/valerio-genco" target="_blank">
-                <img src="assets/badges/linkedin-simple.svg" width="100px"  height="50px" />
+                <img src="assets/badges/linkedin-text.svg" width="100px"  height="50px" />
             </a> 
         </td>
     </tr>
 </table>  
-        <hr/>
+        
 
 <br/>  
 <br/>  
@@ -186,24 +186,18 @@
 
 <div width=100% align="center">
   <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&theme=dark" media="(prefers-color-scheme: dark)"  />
-  <source srcset="https://github-readme-stats.vercel.app/api?ValerioGc=ValerioGc&show_icons=true&count_private=truetheme=dark" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  />
-  <img align="right" width="480px" height="200px" src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=truetheme=dark" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&theme=highcontrast" media="(prefers-color-scheme: dark)"  />
+  <source srcset="https://github-readme-stats.vercel.app/api?ValerioGc=ValerioGc&show_icons=true&count_private=truetheme=highcontrast" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  />
+  <img valign="center" align="right" width="480px" height="200px" src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=truetheme=highcontrast" />
   </picture>
 <!-- Profile Stats -->
 <br/>
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=dark" (prefers-color-scheme: dark) />
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=highcontrast" (prefers-color-scheme: dark) />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=highcontrast"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-    <img align="left" width="480px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=dark" />
+    <img valign=center align="left" width="480px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=highcontrast" />
   </picture>
-</div>
-
-
-
-<div align="center" width="100%" valign=center>
-    <img src="assets/badges/made-with-markdown.svg" alt="custom-badge"  />
 </div>
