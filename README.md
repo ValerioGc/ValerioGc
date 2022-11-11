@@ -55,7 +55,7 @@
     <tr align=center>
         <td width="50%" style="padding:30px 0 20px">
             <a href="https://stackoverflow.com/users/Valerio Genco" target="_blank">
-                <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow" width=120 height=25 />
+                <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" width="120" height="25" />
             </a> 
         </td>
         <td width="50%" style="padding:30px 0 20px">
@@ -189,14 +189,14 @@
 
 <div width=100% align=center>
   <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=true&theme=dark" media="(prefers-color-scheme: dark)"  />
-  <source srcset="https://github-readme-stats.vercel.app/api?ValerioGc=ValerioGc&show_icons=true&count_private=true&include_all_commits=truetheme=dark" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&theme=dark" media="(prefers-color-scheme: dark)"  />
+  <source srcset="https://github-readme-stats.vercel.app/api?ValerioGc=ValerioGc&show_icons=true&count_private=truetheme=dark" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  />
   <img align="right" width="480px" height="200px" src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=truetheme=dark" />
   </picture>
 <!-- Profile Stats -->
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=dark"(prefers-color-scheme: dark)"/>
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=dark" (prefers-color-scheme: dark)"/>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=dark"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
