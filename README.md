@@ -187,27 +187,19 @@
 
 
 
-<picture align=left>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact"(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact" />
-</picture>
-
-
-<picture align=right>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&theme=dark&count_private=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?ValerioGc=ValerioGc&show_icons=true&count_private=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true" />
-</picture>
-
+<div width=100% align=center>
+  <picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=true&theme=dark" media="(prefers-color-scheme: dark)"  />
+  <source srcset="https://github-readme-stats.vercel.app/api?ValerioGc=ValerioGc&show_icons=true&count_private=true&include_all_commits=truetheme=dark" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  />
+  <img align="right" width="480px" height="200px" src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=truetheme=dark" />
+  </picture>
+<!-- Profile Stats -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=dark"(prefers-color-scheme: dark)"/>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=dark"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <img align="left" width="480px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=dark" />
+  </picture>
+</div>
