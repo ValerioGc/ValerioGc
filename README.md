@@ -176,8 +176,8 @@
 
 <div width="100%" align="center">
     <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=react" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=cobalt2"
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=transparent" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=transparent"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img valign="center" align="center" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=transparent" />
     </picture>
@@ -185,9 +185,9 @@
     <br />
     &nbsp; 
     <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&theme=react " 
+        <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&theme=transparent " 
         media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=truetheme=cobalt2" 
+        <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=truetheme=transparent" 
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img valign="center" align="center" height="200px" widt="400px" src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" />
     </picture>
