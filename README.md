@@ -214,7 +214,7 @@
         <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=react&bg_color=00000000" media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=vue-dark&bg_color=00000000"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img height="230px" valign=center width=280px src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&bg_color=00000000" />
+        <img height="230px" valign=center width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&bg_color=00000000" />
     </picture>
     &nbsp;
     <!-- Profile Stats -->
@@ -223,7 +223,7 @@
         media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=truetheme=buefy" 
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img height="230px"  width=335px src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=true" />
+        <img height="230px"  width=350px src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=true" />
     </picture>
 </div>
 
