@@ -208,7 +208,7 @@
     <!-- Languages Stats -->
     <picture>
         <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=react&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=vue-dark"
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=vue"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img height="250px" valign="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact" />
     </picture>
@@ -217,7 +217,7 @@
     <picture>
         <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&theme=react&bg_color=00000000" 
         media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=truetheme=vue-dark" 
+        <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=truetheme=vue" 
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img height="250px"  width="400px" src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=true" />
     </picture>
