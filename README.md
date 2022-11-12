@@ -14,7 +14,9 @@
    
 <br/>  
 
-## ***Hi, Welcome to my profile❗***  <img valign="center" width="50px" src="assets/gifs/waving.gif"/>
+## ***Hi, Welcome to my profile❗*** <picture><source srcset="assets/gifs/waving.gif" media="min-width: 601px)" /><source srcset="assets/gifs/waving-sm.gif" media="(max-width: 600px)" /><img valign="center" src="assets/gifs/waving.gif" alt="Baner ValerioGc" /></picture>
+
+
 > I’m a full-stack developer who has turned the passion about programming and the tech world into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
 <br/>
@@ -188,9 +190,7 @@
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
                 <img valign="center" align="center" width="45px" src="assets/skills&tools/os/apple-black.svg" alt="MacOs" />
             </picture>
-            &nbsp;
-            &nbsp; 
-            &nbsp;
+            &nbsp; &nbsp; 
             <img width="45px" valign="center" align="center" src="assets/skills&tools/os/linux.svg" alt="linux" />
         </div>
 </details>
@@ -217,7 +217,7 @@
     <picture>
         <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&theme=react&bg_color=00000000" 
         media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=truetheme=buefy" 
+        <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=truetheme=vue-dark" 
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img height="250px"  width="400px" src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=true" />
     </picture>
