@@ -21,8 +21,11 @@
 
 <br/>
 <br/>
-
-<h2>Contacts <img src="assets/gifs/contacts.gif" width=30px></h2>   
+<!-- Contacts Section -->
+<h2>
+    Contacts  &nbsp; &nbsp;
+    <img src="assets/gifs/contacts.gif" width="30px" /> 
+</h2>
 <table align="center" width="100%">
     <tr>
         <td valign="center" width="50%">
@@ -63,17 +66,16 @@
     </tr>
 </table>  
 
-
 <br/>  
 <br/>  
-
+<!-- Skills Section -->
 <div>
   <h2>Skills &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="30px" height="40px"></h2>
 </div>
  
 <br/>
 <br/>
-
+<!-- Languages Section -->
 <details open >
     <summary align="center">
         <h3>🧱 Languages and frameworks</h3>
@@ -143,7 +145,7 @@
 
 <br/>
 <br/>
-
+<!-- Tools Section -->
 <details open>
     <summary align="center"><h3>🛠️ Tools: </h3></summary>
     <div align="center" width="80%" >
@@ -176,7 +178,7 @@
 </details>
 
 <br/>   
-
+<!-- Os Section -->
 <details open>
     <summary align="center"><h3> 🏰 OS: </h3></strong>
         <div align="center" width="80%">
@@ -203,13 +205,14 @@
 
 <br/>  
 
-
+<!-- Stats Section -->
 <h2>My Stats <img width="30px" src="assets/gifs/stats2.gif"></h2>
 
 <br/>   
 
 
 <div width="100%" align="center">
+    <!-- Languages Stats -->
     <picture>
         <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=transparent" media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=transparent"
@@ -218,7 +221,7 @@
     </picture>
     <br />
     &nbsp; 
-  <!-- Profile Stats -->
+    <!-- Profile Stats -->
     <picture>
         <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&theme=transparent " 
         media="(prefers-color-scheme: dark)" />
