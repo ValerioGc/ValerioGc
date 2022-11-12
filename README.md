@@ -14,7 +14,7 @@
    
 <br/>  
 
-## ***Hi, Welcome to my profile *** <picture><source srcset="assets/gifs/waving.gif" media="min-width: 601px)" /><source srcset="assets/gifs/waving-sm.gif" media="(max-width: 600px)" /><img valign="center" src="assets/gifs/waving.gif" alt="Baner ValerioGc" /></picture>
+## *** Hi, Welcome to my profile *** <picture><source srcset="assets/gifs/waving.gif" media="min-width: 601px)" /><source srcset="assets/gifs/waving-sm.gif" media="(max-width: 600px)" /><img valign="center" src="assets/gifs/waving.gif" alt="Baner ValerioGc" /></picture>
 
 
 > I’m a full-stack developer who has turned the passion about programming and the tech world into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
