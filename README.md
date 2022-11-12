@@ -1,5 +1,4 @@
 
-<img srcset="assets/gifs/code.gif 630w, assets/gifs/banner.gif 1280w" sizes="(max-width: 600px) 630px, 1280px" src="assets/gifs/banner.gif" alt="Banner readme" />
 
 <br/> 
 
