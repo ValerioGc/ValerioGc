@@ -174,8 +174,7 @@
         <img valign="center" align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc" />
     </picture>
   <!-- Profile Stats -->
-    &nbsp; 
-    <br />
+    <br /> &nbsp; 
     <picture>
         <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&theme=react " media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=truetheme=ayu-mirage" 
