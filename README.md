@@ -146,7 +146,9 @@
         <div align="center" width="80%">
                 <br />
                 <img width="50px" valign="center" align="center" src="assets/skills&tools/os/windows.svg" alt="windows" />
-                &nbsp; &nbsp; &nbsp;
+                &nbsp; 
+                &nbsp; 
+                &nbsp;
                 <picture>
                     <source srcset="assets/skills&tools/os/apple-white.svg" 
                     media="(prefers-color-scheme: dark)" />
@@ -154,7 +156,9 @@
                     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
                     <img valign="center" align="center" width="50px" src="assets/skills&tools/os/apple-black.svg" alt="MacOs" />
                 </picture>
-                &nbsp; &nbsp; &nbsp;
+                &nbsp;
+                &nbsp; 
+                &nbsp;
                 <img width="50px" valign="center" align="center" src="assets/skills&tools/os/linux.svg" alt="linux" />
             </span>
         </div>
@@ -173,21 +177,23 @@
 <div width="100%" align="center">
     <picture>
         <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=react" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=vue"
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=cobalt2"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img valign="center" align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc" />
+        <img valign="center" align="center" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=transparent" />
     </picture>
   <!-- Profile Stats -->
-    <br /> &nbsp; 
+    <br />
+    &nbsp; 
     <picture>
         <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&theme=react " 
         media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=truetheme=vue" 
+        <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=truetheme=cobalt2" 
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img valign="center" align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=true" />
+        <img valign="center" align="center" height="200px" widt="400px" src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" />
     </picture>
 </div>
 
+<br/>
 <br/>
 <br/>
 <br/>
@@ -198,6 +204,6 @@
         media="(prefers-color-scheme: dark)" />
         <source srcset="assets/badges/made-with-markdown.svg" 
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img valign="center" align="center" width="30%" src="assets/badges/made-with-markdown-dark.svg" alt="badge made with html & markdown" />
+        <img valign="center" align="center" width="40%" src="assets/badges/made-with-markdown-dark.svg" alt="badge made with html & markdown" />
     </picture>
 </div>
