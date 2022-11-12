@@ -7,7 +7,7 @@
     <source srcset="assets/gifs/banner.gif" 
     media="(max-width: 601px)" />
     <source srcset="assets/gifs/code.gif" 
-    media="(mix-width: 600px)" />
+    media="(min-width: 600px)" />
     <img src="assets/gifs/banner.gif" alt="Baner ValerioGc" />
 </picture>
 
