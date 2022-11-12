@@ -40,7 +40,7 @@
             <p>
                 📖 Currently <ins>learning</ins>:
             </p>
-            <ul style="list-style:none">
+            <div style="list-style:none">
                     &nbsp;
                     <p><img align="center" src="assets/skills&tools/skills/java.svg"  alt="Java" width="30px" /> &nbsp; <span>Java</span> </p>
                     &nbsp;
@@ -62,7 +62,7 @@
         </td>
     </tr>
 </table>  
-        
+
 
 <br/>  
 <br/>  
@@ -71,6 +71,7 @@
   <h2>Skills &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="30px" height="40px"></h2>
 </div>
  
+<br/>
 <br/>
 
 <details open >
@@ -142,9 +143,9 @@
 
 <details open>
     <summary align="center"><h3> 🏰 OS: </h3></strong>
-        <div align=center width="80%">
+        <div align="center" width="80%">
                 <br />
-                <img width="50px" margin valign="center" align="center" src="assets/skills&tools/os/windows.svg" alt="windows" />
+                <img width="50px" valign="center" align="center" src="assets/skills&tools/os/windows.svg" alt="windows" />
                 &nbsp; &nbsp; &nbsp;
                 <img width="50px" valign="center" align="center" src="assets/skills&tools/os/apple-white.svg" alt="macos" /> 
                 &nbsp; &nbsp; &nbsp;
@@ -163,21 +164,22 @@
 <br/>   
 
 
-<div width=100% align="center">
+<div width="100%" align="center">
   <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&theme=highcontrast" media="(prefers-color-scheme: dark)"  />
-  <source srcset="https://github-readme-stats.vercel.app/api?ValerioGc=ValerioGc&show_icons=true&count_private=truetheme=highcontrast" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  />
-  <img valign="center" align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=truetheme=highcontrast" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&theme=react " media="(prefers-color-scheme: dark)"  />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=truetheme=ayu-mirage" 
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img valign="center" align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=true" />
   </picture>
 <!-- Profile Stats -->
 &nbsp; 
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=highcontrast" (prefers-color-scheme: dark) />
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=react" (prefers-color-scheme: dark) />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=highcontrast"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=ayu-mirage"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-    <img valign=center align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=highcontrast" />
+    <img valign="center" align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc" />
   </picture>
 </div>
 
@@ -185,6 +187,6 @@
 <br/>
 <br/>
 
-<div align=center>
-  <img valign="center" width=30% src="assets/badges/made-with-markdown.svg" alt="custom badge" />
+<div align="center">
+  <img valign="center" width="25%" src="assets/badges/made-with-markdown.svg" alt="custom badge" />
 </div>
