@@ -2,19 +2,13 @@
 <img srcset="assets/gifs/banner-sm.gif 853w, assets/gifs/banner.gif 1280w" sizes="(max-width: 600px) 853px, 1280px" src="assets/gifs/banner.gif" alt="Banner readme" />
 
 <br/> 
-<br/>  
 
-
-<div align="center" valign="center" width="100%" >
-    <img align="left" src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&duration=4500&pause=600&color=4F92FF&background=FF1B1B00&width=435&lines=%F0%9F%96%A5%EF%B8%8F+PC+Hardware+Enthusiast" alt="Typing SVG" /> 
+<div align=center>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=600&center=true&vCenter=true&height=60&lines=%F0%9F%92%BB+PC+Hardware+Enthusiast" alt="Typing SVG" />
 </div>
- 
- 
-<br/>  
-<br/>  
+   
 <br/>  
 
-&nbsp;
 ## ***Hi, Welcome to my profile❗***  <img valign="center" width="50px" src="assets/gifs/waving.gif"/>
 > I’m a full-stack developer who has turned the passion about programming and the tech world into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
@@ -223,7 +217,7 @@
     <picture>
         <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&theme=react&bg_color=00000000" 
         media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=truetheme=vue-dark&bg_color=00000000" 
+        <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=truetheme=buefy&bg_color=00000000" 
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img height="230px"  width=335px src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000" />
     </picture>
