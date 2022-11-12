@@ -39,8 +39,11 @@
                 📖 Currently <ins>learning</ins>:
             </p>
             <div style="list-style:none">
-                    <p>&nbsp;<img align="center" src="assets/skills&tools/skills/java.svg"  alt="Java" width="30px" /> &nbsp; <span>Java</span> </p>
-                    &nbsp;
+                        &nbsp;
+                    <p>
+                        <img align="center" src="assets/skills&tools/skills/java.svg"  alt="Java" width="30px" /> 
+                        &nbsp; Java 
+                    </p>
                     <p>&nbsp;<img align="center" src="assets/skills&tools/frameworks/spring.svg"  alt="Spring" width="25px" /> &nbsp; <span style="padding: 0 5px"> Spring</span> </p>
                 </li>
             </ul>
