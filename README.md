@@ -3,6 +3,26 @@
 
 <br/> 
 
+
+ <picture> 
+    <source srcset="assets/gifs/banner.gif" 
+    media="(min-width: 601px)" />
+    <source srcset="assets/gifs/banner-sm.gif" 
+    media="(max-width: 600px)" />
+    <img src="assets/gifs/banner.gif" alt="Baner ValerioGc" />
+</picture>
+ <picture> 
+    <source srcset="assets/gifs/banner.gif" 
+    media="" />
+    <source srcset="assets/gifs/banner-sm.gif" 
+    media="(max-width: 600px)" />
+    <img src="assets/gifs/banner.gif" alt="Baner ValerioGc" />
+</picture>
+
+<br/> 
+
+
+
 <div align=center>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=600&center=true&vCenter=true&height=60&lines=%F0%9F%92%BB+PC+Hardware+Enthusiast" alt="Typing SVG" />
 </div>
@@ -64,13 +84,16 @@
 </table>  
 
 <br/>  
+
 <br/>  
+
 <!-- Skills Section -->
 <div>
   <h2>Skills &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="30px" height="40px"></h2>
 </div>
  
 <br/>
+
 <br/>
 <!-- Languages Section -->
 <details open >
@@ -100,7 +123,7 @@
             &nbsp;
             &nbsp;
             &nbsp;
-            <img width="45px" valign="center" align="center" src="assets/skills&tools/skills/javascript.svg"  alt="JavaScript" />	
+            <img width="50px" valign="center" align="center" src="assets/skills&tools/skills/javascript.svg"  alt="JavaScript" />	
             &nbsp; 
             &nbsp; 
             &nbsp;
@@ -139,10 +162,6 @@
       </div>
     </div>
 </details>
-
-<br/>
-
-<br/>
 
 <!-- Tools Section -->
 <details open>
@@ -237,7 +256,7 @@
         <source srcset="assets/badges/made-with-markdown-dark.svg" 
         media="(prefers-color-scheme: dark)" />
         <source srcset="assets/badges/made-with-html-markdown-light.svg" 
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)," />
         <img valign="center" align="center" src="assets/badges/made-with-html-markdown-light.svg" alt="badge made with html & markdown" />
     </picture>
 </div>
@@ -245,5 +264,5 @@
 <br />
 
 <div align="center">
-    <img align="center" width="120px" align=center src="https://komarev.com/ghpvc/?username=ValerioGc&&style=plastic" /> 
+    <img align="center" width="120px" align="center" src="https://komarev.com/ghpvc/?username=ValerioGc&&style=plastic" /> 
 </div>
