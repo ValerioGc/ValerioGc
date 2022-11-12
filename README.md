@@ -61,12 +61,12 @@
     <tr align="center">
         <td width="50%">
             <a href="https://stackoverflow.com/users/ValerioGc" target="_blank">
-                <img src="assets/badges/stack-simple.svg" alt="stackoverflow" width="100px" height="50px" alt="Badge StackOverflow-ValerioGc" />
+                <img src="assets/badges/stack-pills.svg" alt="stackoverflow" width="100px" height="50px" alt="Badge StackOverflow-ValerioGc" />
             </a> 
         </td>
         <td width="50%">
             <a href="https://linkedin.com/in/valerio-genco" target="_blank">
-                <img src="assets/badges/linkedin-text.svg" width="100px"  height="50px" alt="Badge Linkedin-ValerioGc"/>
+                <img src="assets/badges/linkedin-pills.svg" width="100px"  height="50px" alt="Badge Linkedin-ValerioGc"/>
             </a> 
         </td>
     </tr>
