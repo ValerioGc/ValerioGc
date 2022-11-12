@@ -177,7 +177,7 @@
 <br/>   
 <!-- Os Section -->
 <details open>
-    <summary align="center"><h3> 🏰 OS: </h3></strong>
+    <summary align="center"><h3>🏰 OS: </h3></summary>
         <div align="center" width="80%">
             <br />
             <img width="50px" valign="center" align="center" src="assets/skills&tools/os/windows.svg" alt="windows" />
