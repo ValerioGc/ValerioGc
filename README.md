@@ -8,7 +8,6 @@
 
 <br/> 
 
-
 <div align=center>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=600&center=true&vCenter=true&height=60&lines=%F0%9F%92%BB+PC+Hardware+Enthusiast" alt="Typing SVG" />
 </div>
@@ -136,6 +135,9 @@
 </details>
 
 <br />
+
+<br />
+
 <!-- Tools Section -->
 <details open>
     <summary align="center"><h3>🛠️ Tools: </h3></summary>
@@ -167,6 +169,8 @@
         </div>
     </div>
 </details>
+
+<br/>   
 
 <br/>   
 
@@ -215,7 +219,7 @@
         media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=truetheme=buefy" 
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img height="250px"  width=400px src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=true" />
+        <img height="250px"  width="400px" src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=true" />
     </picture>
 </div>
 
