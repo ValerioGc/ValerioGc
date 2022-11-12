@@ -1,13 +1,17 @@
 
 <img srcset="assets/gifs/banner-sm.gif 853w, assets/gifs/banner.gif 1280w" sizes="(max-width: 600px) 853px, 1280px" src="assets/gifs/banner.gif" alt="Banner readme" />
 
+<br/> 
+<br/>  
 
-<div align="center" >
-    <img align=left src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4500&pause=1000&color=3760F7&background=FFFFFF00&center=true&vCenter=true&lines=%F0%9F%96%A5%EF%B8%8F++PC+Hardware+Enthusiast" alt="Typing SVG" /> 
-    <img  align="right" width="180" src="https://komarev.com/ghpvc/?username=ValerioGc&&style=plastic"  /> 
+
+<div align="center" valign=center width="100%" >
+    <img align="left" valign=center src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4500&pause=1000&color=3760F7&background=FFFFFF00&center=true&vCenter=true&lines=%F0%9F%96%A5%EF%B8%8F++PC+Hardware+Enthusiast" alt="Typing SVG" /> 
+    <img valign=center align="right" height="30" src="https://komarev.com/ghpvc/?username=ValerioGc&&style=plastic"  /> 
 </div>
  
  
+<br/>  
 <br/>  
 <br/>  
 
@@ -15,9 +19,10 @@
 ##  ***Hi, Welcome to my profile !***  <img  style="padding: 0 50px" valign=center width="55px" src="assets/gifs/waving.gif"/>
   > I’m a full-stack developer who has turned the passion about programming and the tech world into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
+<br/>
+<br/>
 
-
-<h2><h2>Contacts 📡</h2>   
+<h2>Contacts <img src="assets/gifs/contacts.gif" width=30px></h2>   
 <table align="center" width="100%">
     <tr>
         <td valign="center" width="50%">
@@ -149,11 +154,11 @@
 </details>
 
 <br/>  
+
 <br/>  
 
 
-
-<h2 height="30px">My Stats 📈</h2>
+<h2>My Stats <img width="30px" src="assets/gifs/stats2.gif"></h2>
 
 <br/>   
 
@@ -162,10 +167,9 @@
   <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&theme=highcontrast" media="(prefers-color-scheme: dark)"  />
   <source srcset="https://github-readme-stats.vercel.app/api?ValerioGc=ValerioGc&show_icons=true&count_private=truetheme=highcontrast" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  />
-  <img valign="center" align="center" width="300px" height="200px" src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=truetheme=highcontrast" />
+  <img valign="center" align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=truetheme=highcontrast" />
   </picture>
 <!-- Profile Stats -->
-<br/>
 &nbsp; 
   <picture>
     <source 
@@ -173,7 +177,7 @@
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=highcontrast"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-    <img valign=center align="center" width="300px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=highcontrast" />
+    <img valign=center align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=highcontrast" />
   </picture>
 </div>
 
