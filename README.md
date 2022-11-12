@@ -6,18 +6,12 @@
 
  <picture> 
     <source srcset="assets/gifs/banner.gif" 
-    media="(min-width: 601px)" />
+    media="(max-width: 601px)" />
     <source srcset="assets/gifs/banner-sm.gif" 
-    media="(max-width: 600px)" />
+    media="(mix-width: 600px)" />
     <img src="assets/gifs/banner.gif" alt="Baner ValerioGc" />
 </picture>
- <picture> 
-    <source srcset="assets/gifs/banner.gif" 
-    media="" />
-    <source srcset="assets/gifs/banner-sm.gif" 
-    media="(max-width: 600px)" />
-    <img src="assets/gifs/banner.gif" alt="Baner ValerioGc" />
-</picture>
+
 
 <br/> 
 
