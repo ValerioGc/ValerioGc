@@ -60,8 +60,8 @@
     </tr>
     <tr align="center">
         <td width="50%">
-            <a href="https://stackoverflow.com/users/ValerioGc" target="_blank">
-                <img src="assets/badges/stack-pills.svg" alt="stackoverflow" width="100px" height="50px" alt="Badge StackOverflow-ValerioGc" />
+            <a href="https://stackoverflow.com/users/19116090/valeriogc" target="_blank">
+                <img src="assets/badges/stack-pills2.svg" alt="stackoverflow" width="100px" height="50px" alt="Badge StackOverflow-ValerioGc" />
             </a> 
         </td>
         <td width="50%">
