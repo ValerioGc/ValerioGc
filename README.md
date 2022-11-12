@@ -13,11 +13,13 @@
 > I’m a full-stack developer who has turned the passion about programming and the tech world into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
 <br/>
+
 <br/>
+
 <!-- Contacts Section -->
 <h2>
     Contacts  &nbsp; &nbsp;
-    <img src="assets/gifs/contacts.gif" width="30px" /> 
+    <img src="assets/gifs/contacts.gif" width="40px" /> 
 </h2>
 <table align="center" width="100%">
     <tr>
@@ -137,7 +139,9 @@
 </details>
 
 <br/>
+
 <br/>
+
 <!-- Tools Section -->
 <details open>
     <summary align="center"><h3>🛠️ Tools: </h3></summary>
@@ -230,9 +234,9 @@
       <picture>
         <source srcset="assets/badges/made-with-markdown-dark.svg" 
         media="(prefers-color-scheme: dark)" />
-        <source srcset="assets/badges/made-with-markdown-light.svg" 
+        <source srcset="assets/badges/made-with-html-markdown-light.svg" 
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img valign="center" align="center" width="35%" src="assets/badges/made-with-markdown-light.svg" alt="badge made with html & markdown" />
+        <img valign="center" align="center" width="35%" src="assets/badges/made-with-html-markdown-light.svg" alt="badge made with html & markdown" />
     </picture>
 </div>
 
