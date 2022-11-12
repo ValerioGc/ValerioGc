@@ -212,9 +212,9 @@
     <!-- Languages Stats -->
     <picture>
         <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=react&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=vue-dark&bg_color=00000000"
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=vue-dark"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img height="230px" valign=center width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&bg_color=00000000" />
+        <img height="230px" valign=center width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact" />
     </picture>
     &nbsp;
     <!-- Profile Stats -->
