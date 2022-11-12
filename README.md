@@ -167,7 +167,8 @@
 <div width="100%" align="center">
     <picture>
         <source 
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=react" media="(prefers-color-scheme: dark)" />
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=react" 
+        media="(prefers-color-scheme: dark)" />
         <source
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=ayu-mirage"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
@@ -176,7 +177,8 @@
   <!-- Profile Stats -->
     <br /> &nbsp; 
     <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&theme=react " media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&theme=react " 
+        media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=truetheme=ayu-mirage" 
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img valign="center" align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=true" />
