@@ -5,9 +5,9 @@
 <br/>  
 
 
-<div align="center" valign=center width="100%" >
-    <img align="left" valign=center src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4500&pause=1000&color=3760F7&background=FFFFFF00&center=true&vCenter=true&lines=%F0%9F%96%A5%EF%B8%8F++PC+Hardware+Enthusiast" alt="Typing SVG" /> 
-    <img valign=center align="right" height="30" src="https://komarev.com/ghpvc/?username=ValerioGc&&style=plastic"  /> 
+<div align="center" valign="center" width="100%" >
+    <img align="left" valign="center" width=70% src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4500&pause=1000&color=3760F7&background=FFFFFF00&center=true&vCenter=true&lines=%F0%9F%96%A5%EF%B8%8F++PC+Hardware+Enthusiast" alt="Typing SVG" /> 
+    <img valign=center align="right" width="25%" src="https://komarev.com/ghpvc/?username=ValerioGc&&style=plastic"  /> 
 </div>
  
  
@@ -15,9 +15,9 @@
 <br/>  
 <br/>  
 
-
-##  ***Hi, Welcome to my profile !***  <img  style="padding: 0 50px" valign=center width="55px" src="assets/gifs/waving.gif"/>
-  > I’m a full-stack developer who has turned the passion about programming and the tech world into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+&nbsp;
+## ***Hi, Welcome to my profile❗***  <img valign="center" width="50px" src="assets/gifs/waving.gif"/>
+> I’m a full-stack developer who has turned the passion about programming and the tech world into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
 <br/>
 <br/>
@@ -75,32 +75,68 @@
 <br/>
 
 <details open >
-    <summary align="center"><h3>🧱 Languages and frameworks</h3></summary>
+    <summary align="center">
+        <h3>🧱 Languages and frameworks</h3>
+    </summary>
     <br />
     <div align="center" width="80%">
         <div align="center">
-          <img width="50px" valign="center" align="center" src="assets/skills&tools/skills/html-text.svg" alt="HTML5" />  
-          &nbsp; &nbsp; &nbsp;
-          <img width="50px" valign="center" align="center"  src="assets/skills&tools/skills/css-text.svg" alt="CSS3"  />
-          &nbsp; &nbsp; &nbsp;
-          <img width="45px" valign="center" align="center" src="assets/skills&tools/skills/javascript.svg"  alt="JavaScript" />	
-          &nbsp; &nbsp; &nbsp;
-          <img width="50px" valign="center" align="center"  align="center" src="assets/skills&tools/skills/php.svg" alt="PHP 8" />
-          &nbsp; &nbsp; &nbsp;
-          <img width="50px" valign="center" align="center" src="assets/skills&tools/skills/mysql.svg"  alt="MySQL" />
-      </div>
-      <br />
-      <br />
-      <div align="center">
-          <img width="50px" valign="center" align="center" src="assets/skills&tools/frameworks/bootstrap-text.svg" alt="bootstrap" />
-          &nbsp; &nbsp; &nbsp;
-          <img src="assets/skills&tools/frameworks/vue-text.svg"  width="50px" valign="center" align="center"  alt="Vue Js" />
-          &nbsp; &nbsp; &nbsp;
-          <img width="50px" valign="center" align="center"  src="assets/skills&tools/frameworks/sass.svg" alt="sass" />
-          &nbsp; &nbsp; &nbsp;
-          <img width="50px" valign="center" align="center" src="assets/skills&tools/frameworks/jquery-text.svg" alt="JQuery" />
-          &nbsp; &nbsp; &nbsp;
-          <img width="50px" valign="center" align="center" src="assets/skills&tools/frameworks/laravel-text.svg" alt="Laravel" />
+            <picture> 
+                <source srcset="assets/skills&tools/skills/html-text-light.svg" 
+                media="(prefers-color-scheme: dark)" />
+                <source srcset="assets/skills&tools/skills/html-text.svg" 
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img valign="center" align="center" width="50px" src="assets/skills&tools/skills/html-text.svg" alt="HTML5" />
+            </picture>
+            &nbsp; 
+            &nbsp; 
+            &nbsp;
+            <picture> 
+                <source srcset="assets/skills&tools/skills/css-text-light.svg" 
+                media="(prefers-color-scheme: dark)" />
+                <source srcset="assets/skills&tools/skills/css-text.svg" 
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img valign="center" align="center" width="50px" src="assets/skills&tools/skills/css-text.svg" alt="CSS3" />
+            </picture>
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            <img width="45px" valign="center" align="center" src="assets/skills&tools/skills/javascript.svg"  alt="JavaScript" />	
+            &nbsp; 
+            &nbsp; 
+            &nbsp;
+            <img width="50px" valign="center" align="center"  align="center" src="assets/skills&tools/skills/php.svg" alt="PHP 8" />
+            &nbsp; 
+            &nbsp; 
+            &nbsp;
+            <img width="50px" valign="center" align="center" src="assets/skills&tools/skills/mysql.svg"  alt="MySQL" />
+        </div>
+        <br />
+        <br />
+        <div align="center">
+            <img width="50px" valign="center" align="center" src="assets/skills&tools/frameworks/bootstrap-text.svg" alt="bootstrap" />
+            &nbsp; 
+            &nbsp; 
+            &nbsp;
+            <img src="assets/skills&tools/frameworks/vue-text.svg"  width="50px" valign="center" align="center"  alt="Vue Js" />
+            &nbsp; 
+            &nbsp; 
+            &nbsp;
+            <img width="50px" valign="center" align="center"  src="assets/skills&tools/frameworks/sass.svg" alt="sass" />
+            &nbsp; 
+            &nbsp; 
+            &nbsp;
+            <picture> 
+                <source srcset="assets/skills&tools/frameworks/jquery-text-dark.svg" 
+                media="(prefers-color-scheme: dark)" />
+                <source srcset="assets/skills&tools/frameworks/jquery-text-light.svg" 
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img valign="center" align="center" width="50px" src="assets/skills&tools/frameworks/jquery-text-light.svg" alt="JQuery" />
+            </picture>
+            &nbsp; 
+            &nbsp; 
+            &nbsp;
+            <img width="50px" valign="center" align="center" src="assets/skills&tools/frameworks/laravel-text.svg" alt="Laravel" />
       </div>
     </div>
 </details>
@@ -144,23 +180,22 @@
 <details open>
     <summary align="center"><h3> 🏰 OS: </h3></strong>
         <div align="center" width="80%">
-                <br />
-                <img width="50px" valign="center" align="center" src="assets/skills&tools/os/windows.svg" alt="windows" />
-                &nbsp; 
-                &nbsp; 
-                &nbsp;
-                <picture>
-                    <source srcset="assets/skills&tools/os/apple-white.svg" 
-                    media="(prefers-color-scheme: dark)" />
-                    <source srcset="assets/skills&tools/os/apple-black.svg" 
-                    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-                    <img valign="center" align="center" width="50px" src="assets/skills&tools/os/apple-black.svg" alt="MacOs" />
-                </picture>
-                &nbsp;
-                &nbsp; 
-                &nbsp;
-                <img width="50px" valign="center" align="center" src="assets/skills&tools/os/linux.svg" alt="linux" />
-            </span>
+            <br />
+            <img width="50px" valign="center" align="center" src="assets/skills&tools/os/windows.svg" alt="windows" />
+            &nbsp; 
+            &nbsp; 
+            &nbsp;
+            <picture>
+                <source srcset="assets/skills&tools/os/apple-white.svg" 
+                media="(prefers-color-scheme: dark)" />
+                <source srcset="assets/skills&tools/os/apple-black.svg" 
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img valign="center" align="center" width="50px" src="assets/skills&tools/os/apple-black.svg" alt="MacOs" />
+            </picture>
+            &nbsp;
+            &nbsp; 
+            &nbsp;
+            <img width="50px" valign="center" align="center" src="assets/skills&tools/os/linux.svg" alt="linux" />
         </div>
 </details>
 
@@ -177,13 +212,13 @@
 <div width="100%" align="center">
     <picture>
         <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=transparent" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=transparent"
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=transparent"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img valign="center" align="center" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=transparent" />
+        <img valign="center" align="center" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=transparent" />
     </picture>
-  <!-- Profile Stats -->
     <br />
     &nbsp; 
+  <!-- Profile Stats -->
     <picture>
         <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&theme=transparent " 
         media="(prefers-color-scheme: dark)" />
@@ -202,8 +237,8 @@
       <picture>
         <source srcset="assets/badges/made-with-markdown-dark.svg" 
         media="(prefers-color-scheme: dark)" />
-        <source srcset="assets/badges/made-with-markdown.svg" 
+        <source srcset="assets/badges/made-with-markdown-light.svg" 
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img valign="center" align="center" width="40%" src="assets/badges/made-with-markdown-dark.svg" alt="badge made with html & markdown" />
+        <img valign="center" align="center" width="40%" src="assets/badges/made-with-markdown-light.svg" alt="badge made with html & markdown" />
     </picture>
 </div>
