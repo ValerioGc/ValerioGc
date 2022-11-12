@@ -221,9 +221,9 @@
     <picture>
         <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&theme=react&bg_color=00000000" 
         media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=truetheme=buefy&bg_color=00000000" 
+        <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=truetheme=buefy" 
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img height="230px"  width=335px src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000" />
+        <img height="230px"  width=335px src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=true" />
     </picture>
 </div>
 
@@ -236,12 +236,12 @@
         media="(prefers-color-scheme: dark)" />
         <source srcset="assets/badges/made-with-html-markdown-light.svg" 
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img valign="center" align="center" width="35%" src="assets/badges/made-with-html-markdown-light.svg" alt="badge made with html & markdown" />
+        <img valign="center" align="center" src="assets/badges/made-with-html-markdown-light.svg" alt="badge made with html & markdown" />
     </picture>
 </div>
 
 <br />
 
 <div align="center">
-    <img align="center" width="25%" align=center src="https://komarev.com/ghpvc/?username=ValerioGc&&style=plastic" /> 
+    <img align="center" width="120px" align=center src="https://komarev.com/ghpvc/?username=ValerioGc&&style=plastic" /> 
 </div>
