@@ -166,11 +166,9 @@
 
 <div width="100%" align="center">
     <picture>
-        <source 
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=react" 
-        media="(prefers-color-scheme: dark)" />
-        <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=ayu-mirage"
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=react" 
+        (prefers-color-scheme: dark) />
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&theme=ayu-mirage"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img valign="center" align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc" />
     </picture>
