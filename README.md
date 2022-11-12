@@ -1,5 +1,5 @@
 
-<img srcset="assets/gifs/banner-sm.gif 853w, assets/gifs/banner.gif 1280w" sizes="(max-width: 600px) 853px, 1280px" src="assets/gifs/banner.gif" alt="Banner readme" />
+<img srcset="assets/gifs/code.gif 630w, assets/gifs/banner.gif 1280w" sizes="(max-width: 600px) 630px, 1280px" src="assets/gifs/banner.gif" alt="Banner readme" />
 
 <br/> 
 
@@ -7,7 +7,7 @@
  <picture> 
     <source srcset="assets/gifs/banner.gif" 
     media="(max-width: 601px)" />
-    <source srcset="assets/gifs/banner-sm.gif" 
+    <source srcset="assets/gifs/code.gif" 
     media="(mix-width: 600px)" />
     <img src="assets/gifs/banner.gif" alt="Baner ValerioGc" />
 </picture>
