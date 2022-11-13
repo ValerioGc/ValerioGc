@@ -3,7 +3,7 @@
     media="(min-width: 601px)" />
     <source srcset="assets/gifs/banner-sm.gif" 
     media="(max-width: 600px)" />
-    <img src="assets/gifs/code.gif" alt="Baner ValerioGc" />
+    <img loading=lazy src="assets/gifs/code.gif" alt="Baner ValerioGc" />
 </picture>
 
 <br/> 
