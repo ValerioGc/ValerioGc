@@ -251,5 +251,7 @@
 <br />
 
 <div align="center">
-    <img align="center" width="120px" align="center" src="https://komarev.com/ghpvc/?username=ValerioGc&&style=plastic" /> 
+    <a href="https://visitcount.itsvg.in">
+       <img src="https://visitcount.itsvg.in/api?id=ValerioGc&label=Profile%20Views&color=1&icon=5&pretty=true" />
+    </a>
 </div>
