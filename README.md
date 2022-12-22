@@ -47,13 +47,13 @@
             </p>
             <ul>
                 <li>
-                    <img align="center" src="assets/skills&tools/frameworks/worpress.svg"  alt="wordpress" width="30px" /> 
+                    <img align="center" src="assets/skills%26tools/frameworks/wordpress.svg"  alt="wordpress" width="30px" /> 
                     &nbsp; Wordpress 
                 </li>
                 &nbsp; 
                 <li>
-                    <img align="center" src="assets/skills&tools/framworks/tailwind.svg" alt="Tailwind" width="30px" /> 
-                    &nbsp; Tailwind CSS
+                    <img align="center" src="assets/skills%26tools/frameworks/tailwind.svg" alt="Tailwind" width="30px" /> 
+                    &nbsp; Tailwind CSS 
                 </li>
             </ul>
         </td>
