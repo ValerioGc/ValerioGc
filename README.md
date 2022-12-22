@@ -14,7 +14,7 @@
    
 <br/>  
 
-## ***Hi, Welcome to my profile*** <picture><source srcset="assets/gifs/waving.gif" media="min-width: 601px)" /><source srcset="assets/gifs/waving-sm.gif" media="(max-width: 600px)" /><img valign="center" src="assets/gifs/waving.gif" alt="Baner ValerioGc" /></picture>
+## ***Hi, Welcome to my profile*** <picture><source srcset="assets/gifs/waving.gif" media="min-width: 601px)" /><source srcset="assets/gifs/waving-sm.gif" media="(max-width: 600px)" /><img valign="center" src="assets/gifs/waving.gif" alt="gif waving" /></picture>
 
 
 > I’m a full-stack developer who has turned the passion about programming and the tech world into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
@@ -47,13 +47,13 @@
             </p>
             <ul>
                 <li>
-                    <img align="center" src="assets/skills&tools/skills/java.svg"  alt="Java" width="30px" /> 
-                    &nbsp; Java 
+                    <img align="center" src="assets/skills&tools/frameworks/worpress.svg"  alt="wordpress" width="30px" /> 
+                    &nbsp; Wordpress 
                 </li>
                 &nbsp; 
                 <li>
-                    <img align="center" src="assets/skills&tools/frameworks/spring.svg" alt="Spring" width="25px" /> 
-                    &nbsp; Spring
+                    <img align="center" src="assets/skills&tools/framworks/tailwind.svg" alt="Tailwind" width="30px" /> 
+                    &nbsp; Tailwind CSS
                 </li>
             </ul>
         </td>
@@ -120,7 +120,9 @@
                 <img valign="center" align="center" width="45px" src="assets/skills&tools/skills/css-text.svg" alt="CSS3" />
             </picture>
             &nbsp; &nbsp;
-            <img width="45px" valign="center" align="center" src="assets/skills&tools/skills/javascript.svg" alt="JavaScript" />	
+            <img width="45px" valign="center" align="center" src="assets/skills&tools/skills/javascript.svg" alt="JavaScript" />
+            &nbsp; &nbsp;	
+            <img align="center" src="assets/skills&tools/skills/java-text.svg"  alt="Java" width="45px" /> 
             &nbsp; &nbsp;
             <img width="45px" valign="center" align="center"  align="center" src="assets/skills&tools/skills/php.svg" alt="PHP 8" />
             &nbsp; &nbsp; 
@@ -142,6 +144,8 @@
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
                 <img valign="center" align="center" width="45px" src="assets/skills&tools/frameworks/jquery-text-light.svg" alt="JQuery" />
             </picture>
+            &nbsp; &nbsp;
+            <img align="center" src="assets/skills&tools/frameworks/spring.svg" alt="Spring" width="45px" /> 
             &nbsp; &nbsp; 
             <img width="45px" valign="center" align="center" src="assets/skills&tools/frameworks/laravel-text.svg" alt="Laravel" />
       </div>
@@ -251,7 +255,5 @@
 <br />
 
 <div align="center">
-    <a href="https://visitcount.itsvg.in">
-       <img src="https://visitcount.itsvg.in/api?id=ValerioGc&label=Profile%20Views&color=1&icon=5&pretty=true" />
-    </a>
+    <img align="center" width="120px" align="center" src="https://komarev.com/ghpvc/?username=ValerioGc&&style=plastic" /> 
 </div>
