@@ -145,7 +145,7 @@
                 <img valign="center" align="center" width="45px" src="assets/skills&tools/frameworks/jquery-text-light.svg" alt="JQuery" />
             </picture>
             &nbsp; &nbsp;
-            <img align="center" src="assets/skills&tools/frameworks/spring.svg" alt="Spring" width="45px" /> 
+            <img align="center" src="assets/skills&tools/frameworks/spring-text.svg" alt="Spring" width="45px" /> 
             &nbsp; &nbsp; 
             <img width="45px" valign="center" align="center" src="assets/skills&tools/frameworks/laravel-text.svg" alt="Laravel" />
       </div>
