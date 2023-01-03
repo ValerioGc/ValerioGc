@@ -40,7 +40,7 @@
                 <img src=https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg alt="Italian flag" align="center" width="18" height="18" /> Rome, Italy
             </p>
             <p>
-                📧 Contact me at <a href="mailto:valerio.gc1@gmail.com">valerio.gc1@gmail.com</a>
+                📧 Contact me at <a href="mailto:info@genco-dev.it">info@genco-dev.it</a>
             </p>
             <p>
                 📖 Currently <ins>learning</ins>:
