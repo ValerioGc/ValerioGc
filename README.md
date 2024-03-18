@@ -43,9 +43,6 @@
                 📧 Contact me at <a href="mailto:info@genco-dev.it">info@genco-dev.it</a>
             </p>
             <p>
-                💼 Portfolio: <a href="https://www.genco-dev.it">www.genco-dev.it</a>
-            </p>
-            <p>
                 📖 Currently <ins>learning</ins>:
             </p>
             <ul>
