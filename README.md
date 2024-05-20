@@ -47,12 +47,12 @@
             </p>
             <ul>
                 <li>
-                    <img align="center" src="assets/skills%26tools/tools/docker.svg"  alt="wordpress" width="30px" /> 
+                    <img align="center" src="assets/skills%26tools/tools/docker.svg"  alt="Docker" width="30px" /> 
                     &nbsp; Docker 
                 </li>
                 &nbsp; 
                 <li>
-                    <img align="center" src="assets/skills%26tools/skills/typescript" alt="Tailwind" width="30px" /> 
+                    <img align="center" src="assets/skills%26tools/skills/typescript.svg" alt="Typescript" width="30px" /> 
                     &nbsp; Typescript 
                 </li>
             </ul>
