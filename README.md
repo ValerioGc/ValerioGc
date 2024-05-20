@@ -17,8 +17,7 @@
 ## ***Hi, Welcome to my profile*** <picture><source srcset="assets/gifs/waving.gif" media="min-width: 601px)" /><source srcset="assets/gifs/waving-sm.gif" media="(max-width: 600px)" /><img valign="center" src="assets/gifs/waving.gif" alt="gif waving" /></picture>
 
 
-> Always passionate about the IT world, over the years my personal projects have led me to study and grow in various sectors of the industry, from hardware, networks and systems to programming. 
-
+> Always passionate about the IT world, over the years my personal projects have led me to study and grow in various sectors of the industry, from hardware, networks and systems to programming. At the moment, I am working as a back-end programmer, but I am also enhancing and applying my front-end abilities through different independent projects.
 <br/>
 
 <br/>
