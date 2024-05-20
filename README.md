@@ -40,20 +40,20 @@
                 <img src=https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg alt="Italian flag" align="center" width="18" height="18" /> Rome, Italy
             </p>
             <p>
-                📧 Contact me at <a href="mailto:info@genco-dev.it">info@genco-dev.it</a>
+                📧 Contact me at <a href="mailto:info@genco-dev.it">info@vgenco.com</a>
             </p>
             <p>
                 📖 Currently <ins>learning</ins>:
             </p>
             <ul>
                 <li>
-                    <img align="center" src="assets/skills%26tools/frameworks/wordpress.svg"  alt="wordpress" width="30px" /> 
-                    &nbsp; Wordpress 
+                    <img align="center" src="assets/skills%26tools/tools/docker.svg"  alt="wordpress" width="30px" /> 
+                    &nbsp; Docker 
                 </li>
                 &nbsp; 
                 <li>
-                    <img align="center" src="assets/skills%26tools/frameworks/tailwind.svg" alt="Tailwind" width="30px" /> 
-                    &nbsp; Tailwind CSS 
+                    <img align="center" src="assets/skills%26tools/skills/typescript" alt="Tailwind" width="30px" /> 
+                    &nbsp; Typescript 
                 </li>
             </ul>
         </td>
