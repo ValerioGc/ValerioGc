@@ -51,7 +51,7 @@
                 </li>
                 &nbsp; 
                 <li>
-                    <img align="center" src="assets/skills%26tools/skills/typescript.svg" alt="Typescript" width="30px" /> 
+                    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Quarkus-logo.svg" alt="Quarkus" width="30px" /> 
                     &nbsp; Typescript 
                 </li>
             </ul>
@@ -120,7 +120,9 @@
             </picture>
             &nbsp; &nbsp;
             <img width="45px" valign="center" align="center" src="assets/skills&tools/skills/javascript.svg" alt="JavaScript" />
-            &nbsp; &nbsp;	
+            &nbsp; &nbsp;
+            <img align="center" src="assets/skills%26tools/skills/typescript.svg" alt="Typescript" width="30px" />
+            &nbsp; &nbsp;
             <img align="center" src="assets/skills&tools/skills/java-text.svg"  alt="Java" width="45px" /> 
             &nbsp; &nbsp;
             <img width="45px" valign="center" align="center"  align="center" src="assets/skills&tools/skills/php.svg" alt="PHP 8" />
