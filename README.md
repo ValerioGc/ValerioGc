@@ -187,29 +187,6 @@
     </div>
 </details>
 
-<br/>   
-
-<br/>   
-
-<!-- Os Section -->
-<details open>
-    <summary align="center"><h3>🏰 OS: </h3></summary>
-        <div align="center" width="80%">
-            <br />
-            <img width="45px" valign="center" align="center" src="assets/skills&tools/os/windows.svg" alt="windows" />
-            &nbsp; &nbsp;
-            <picture>
-                <source srcset="assets/skills&tools/os/apple-white.svg" 
-                media="(prefers-color-scheme: dark)" />
-                <source srcset="assets/skills&tools/os/apple-black.svg" 
-                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-                <img valign="center" align="center" width="45px" src="assets/skills&tools/os/apple-black.svg" alt="MacOs" />
-            </picture>
-            &nbsp; &nbsp; 
-            <img width="45px" valign="center" align="center" src="assets/skills&tools/os/linux.svg" alt="linux" />
-        </div>
-</details>
-
 <br/>  
 
 <br/>  
@@ -222,10 +199,10 @@
 <div align="center" valign="center">
     <!-- Languages Stats -->
     <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=react&bg_color=00000000&langs_count=10" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=vue&langs_count=10"
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=react&bg_color=00000000&langs_count=8" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=vue&langs_count=8"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img height="250px" valign="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&langs_count=10" />
+        <img height="250px" valign="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&langs_count=8" />
     </picture>
     &nbsp;
     <!-- Profile Stats -->
