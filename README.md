@@ -52,7 +52,7 @@
                 &nbsp; 
                 <li>
                     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Quarkus-logo.svg" alt="Quarkus" width="30px" /> 
-                    &nbsp; Typescript 
+                    &nbsp; Quarkus 
                 </li>
             </ul>
         </td>
