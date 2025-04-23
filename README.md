@@ -121,7 +121,7 @@
             &nbsp; &nbsp;
             <img width="45px" valign="center" align="center" src="assets/skills&tools/skills/javascript.svg" alt="JavaScript" />
             &nbsp; &nbsp;
-            <img width-="45px" align="center" src="assets/skills%26tools/skills/typescript.svg" alt="Typescript" />
+            <img width="45px" align="center" src="assets/skills%26tools/skills/typescript.svg" alt="Typescript" />
             &nbsp; &nbsp;
             <img align="center" src="assets/skills&tools/skills/java-text.svg"  alt="Java" width="45px" /> 
             &nbsp; &nbsp;
