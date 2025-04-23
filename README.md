@@ -121,7 +121,7 @@
             &nbsp; &nbsp;
             <img width="45px" valign="center" align="center" src="assets/skills&tools/skills/javascript.svg" alt="JavaScript" />
             &nbsp; &nbsp;
-            <img align="center" src="assets/skills%26tools/skills/typescript.svg" alt="Typescript" width="30px" />
+            <img width-="45px" align="center" src="assets/skills%26tools/skills/typescript.svg" alt="Typescript" />
             &nbsp; &nbsp;
             <img align="center" src="assets/skills&tools/skills/java-text.svg"  alt="Java" width="45px" /> 
             &nbsp; &nbsp;
@@ -218,17 +218,6 @@
 </div>
 
 <br />
-<br />
-
-<div align="center"> 
-    <picture>
-        <source srcset="assets/badges/made-with-markdown-dark.svg" 
-        media="(prefers-color-scheme: dark)" />
-        <source srcset="assets/badges/made-with-html-markdown-light.svg" 
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)," />
-        <img valign="center" align="center" width="150px" src="assets/badges/made-with-html-markdown-light.svg" alt="badge made with html & markdown" />
-    </picture>
-</div>
 
 <br />
 
