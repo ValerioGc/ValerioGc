@@ -158,40 +158,6 @@
 <br />
 
 <!-- Tools Section -->
-<details open>
-    <summary align="center"><h3>🛠️ Tools: </h3></summary>
-    <div align="center" width="80%" >
-        <br />
-        <div>
-            <img width="45px" valign="center" align="center" src="assets/skills&tools/tools/mamp.svg" alt="mamp" />
-            &nbsp; &nbsp;  
-            <img width="45px" valign="center" align="center" src="assets/skills&tools/tools/postman.svg" alt="postman" />
-            &nbsp; &nbsp; 
-            <img width="45px" valign="center" align="center" src="assets/skills&tools/tools/inkscape.svg" alt="inkscape" />
-            &nbsp; &nbsp;             
-            <img width="45px" valign="center" align="center" src="assets/skills&tools/tools/canva.svg" alt="canva" />
-            &nbsp; &nbsp; 
-            <img width="45px" valign="center" align="center" src="assets/skills&tools/tools/slack1.svg" alt="slack" />                
-        </div>
-        <br />
-        <br />
-        <div>
-            <img width="45px" valign="center" align="center" src="assets/skills&tools/tools/vscode.svg" alt="VSCode" />
-            &nbsp; &nbsp; 
-            <img width="45px" valign="center" align="center" src="assets/skills&tools/tools/webStorm.svg" alt="WebStorm" />
-            &nbsp; &nbsp; 
-            <img width="45px" valign="center" align="center" src="assets/skills&tools/tools/phpStorm.svg" alt="phpStorm" />
-            &nbsp; &nbsp; 
-            <img width="45px" valign="center" align="center" src="assets/skills&tools/tools/IntelliJ.svg" alt="IntelliJ Idea" />
-            &nbsp; &nbsp; 
-            <img width="45px" valign="center" align="center" src="assets/skills&tools/tools/eclipse.svg" alt="eclipse" />
-        </div>
-    </div>
-</details>
-
-<br/>  
-
-<br/>  
 
 <!-- Stats Section -->
 <h2>My Stats <img width="30px" src="assets/gifs/stats2.gif"></h2>
