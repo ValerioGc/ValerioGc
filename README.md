@@ -57,30 +57,6 @@
             </ul>
         </td>
     </tr>
-    <tr align="center">
-        <td width="50%">
-            <a href="https://stackoverflow.com/users/19116090/valeriogc" target="_blank">
-                <picture> 
-                    <source srcset="assets/badges/stack-pills-dark.svg" 
-                    media="(prefers-color-scheme: dark)" />
-                    <source srcset="assets/badges/stack-pills-light.svg" 
-                    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-                    <img src="assets/badges/stack-pills-light.svg" alt="stackoverflow" width="100px" height="50px" alt="Badge StackOverflow-ValerioGc" />
-                </picture>
-            </a> 
-        </td>
-        <td width="50%">
-            <a href="https://linkedin.com/in/valerio-genco" target="_blank">
-                <picture> 
-                    <source srcset="assets/badges/linkedin-pills-dark.svg" 
-                    media="(prefers-color-scheme: dark)" />
-                    <source srcset="assets/badges/linkedin-pills-light.svg" 
-                    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-                    <img width="100px"  height="50px" src="assets/badges/linkedin-pills-light.svg" alt="Badge Linkedin-ValerioGc" />
-                </picture>
-            </a> 
-        </td>
-    </tr>
 </table>  
 
 <br/>  
