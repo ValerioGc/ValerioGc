@@ -51,7 +51,7 @@
                 </li>
                 &nbsp; 
                 <li>
-                    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Quarkus-logo.svg" alt="Quarkus" width="30px" /> 
+                    <img align="center" src="https://quarkus.io/assets/images/brand/quarkus_logo_vertical_default.svg" alt="Quarkus" width="30px" /> 
                     &nbsp; Quarkus 
                 </li>
             </ul>
