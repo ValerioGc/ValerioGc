@@ -49,7 +49,7 @@
 &nbsp;<picture><source srcset="generated/badges/bootstrap-dark.svg" media="(prefers-color-scheme: dark)" /><img src="generated/badges/bootstrap-light.svg" height="32" alt="Bootstrap" /></picture>
 &nbsp;<picture><source srcset="generated/badges/jquery-dark.svg" media="(prefers-color-scheme: dark)" /><img src="generated/badges/jquery-light.svg" height="32" alt="jQuery" /></picture>
 
-<br/><br/>
+<br/>
 
 <p><sub>BACKEND ──────────────────────────────────────────────────────────</sub></p>
 
@@ -57,9 +57,10 @@
 &nbsp;<picture><source srcset="generated/badges/spring-dark.svg" media="(prefers-color-scheme: dark)" /><img src="generated/badges/spring-light.svg" height="32" alt="Spring" /></picture>
 &nbsp;<picture><source srcset="generated/badges/php-dark.svg" media="(prefers-color-scheme: dark)" /><img src="generated/badges/php-light.svg" height="32" alt="PHP 8" /></picture>
 &nbsp;<picture><source srcset="generated/badges/laravel-dark.svg" media="(prefers-color-scheme: dark)" /><img src="generated/badges/laravel-light.svg" height="32" alt="Laravel" /></picture>
-&nbsp;<picture><source srcset="generated/badges/rust-dark.svg" media="(prefers-color-scheme: dark)" /><img src="generated/badges/rust-light.svg" height="32" alt="Rust" /></picture>
+&nbsp;
+<picture><source srcset="generated/badges/rust-dark.svg" media="(prefers-color-scheme: dark)" /><img src="generated/badges/rust-light.svg" height="32" alt="Rust" /></picture>
 
-<br/><br/>
+<br/>
 
 <p><sub>DATABASE &amp; DEVOPS ─────────────────────────────────────────────</sub></p>
 
