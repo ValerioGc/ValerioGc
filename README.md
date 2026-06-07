@@ -41,20 +41,6 @@
             <p>
                 📧 Contact me at <a href="mailto:info@genco-dev.it">info@vgenco.com</a>
             </p>
-            <p>
-                📖 Currently <ins>learning</ins>:
-            </p>
-            <ul>
-                <li>
-                    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg"  alt="Kubernetes" width="30px" /> 
-                    &nbsp; Kubernetes 
-                </li>
-                &nbsp; 
-                <li>
-                    <img align="center" src="https://quarkus.io/assets/images/brand/quarkus_logo_vertical_default.svg" alt="Quarkus" width="30px" /> 
-                    &nbsp; Quarkus 
-                </li>
-            </ul>
         </td>
     </tr>
 </table>  
@@ -64,13 +50,13 @@
 <br/>  
 
 <!-- Skills Section -->
-<details open >
+<details open>
     <summary valign="center">
         <h2>🧱 Skills and Tools</h2>
-        <hr />
     </summary>
     <br />
     <div align="center" width="80%">
+        <p> <strong>Frontend</strong></p>
         <div align="center">
             <picture> 
                 <source srcset="assets/skills&tools/skills/html-text-light.svg" 
@@ -79,7 +65,7 @@
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
                 <img valign="center" align="center" width="45px" src="assets/skills&tools/skills/html-text.svg" alt="HTML5" />
             </picture>
-            &nbsp; &nbsp;
+            &nbsp;&nbsp;
             <picture> 
                 <source srcset="assets/skills&tools/skills/css-text-light.svg" 
                 media="(prefers-color-scheme: dark)" />
@@ -87,80 +73,74 @@
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
                 <img valign="center" align="center" width="45px" src="assets/skills&tools/skills/css-text.svg" alt="CSS3" />
             </picture>
-            &nbsp; &nbsp;
+            &nbsp;&nbsp;
             <img width="45px" valign="center" align="center" src="assets/skills&tools/skills/javascript.svg" alt="JavaScript" />
-            &nbsp; &nbsp;
-            <img width="45px" align="center" src="assets/skills%26tools/skills/typescript.svg" alt="Typescript" />
-            &nbsp; &nbsp;
-            <img src="assets/skills&tools/frameworks/vue-text.svg"  width="45px" valign="center" align="center"  alt="Vue Js" />
-            &nbsp; &nbsp;
-            <img width="45px" valign="center" align="center"  src="assets/skills&tools/frameworks/sass.svg" alt="sass" />
-            &nbsp; &nbsp;
-            <img width="45px" valign="center" align="center" src="assets/skills&tools/frameworks/bootstrap-text.svg" alt="bootstrap" />
-            &nbsp; &nbsp; 
+            &nbsp;&nbsp;
+            <img width="45px" align="center" src="assets/skills%26tools/skills/typescript.svg" alt="TypeScript" />
+            &nbsp;&nbsp;
+            <img src="assets/skills&tools/frameworks/vue-text.svg" width="45px" valign="center" align="center" alt="Vue.js" />
+            &nbsp;&nbsp;
+        </div>
+        <br />
+        <p><strong>Backend</strong></p>
+        <div align="center">
+            <img align="center" src="assets/skills&tools/skills/java-text.svg" alt="Java" width="45px" />
+            &nbsp;&nbsp;
+            <img align="center" src="assets/skills&tools/frameworks/spring-text.svg" alt="Spring" width="45px" />
+            &nbsp;&nbsp;
+            <img width="45px" valign="center" align="center" src="assets/skills&tools/skills/php.svg" alt="PHP 8" />
+            &nbsp;&nbsp;
+            <img width="45px" valign="center" align="center" src="assets/skills&tools/frameworks/laravel-text.svg" alt="Laravel" />
+            &nbsp;&nbsp;
             <picture> 
-                <source srcset="assets/skills&tools/frameworks/jquery-text-dark.svg" 
+                <source srcset="assets/skills&tools/skills/rust.svg" 
                 media="(prefers-color-scheme: dark)" />
-                <source srcset="assets/skills&tools/frameworks/jquery-text-light.svg" 
+                <source srcset="assets/skills&tools/skills/rust-light.svg" 
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-                <img valign="center" align="center" width="45px" src="assets/skills&tools/frameworks/jquery-text-light.svg" alt="JQuery" />
+                <img width="45px" valign="center" align="center" src="assets/skills&tools/skills/rust.svg" alt="Rust" />
             </picture>
         </div>
         <br />
-        <br />
+        <p><strong>Database &amp; DevOps</strong></p>
         <div align="center">
-            <img align="center" src="assets/skills&tools/skills/java-text.svg"  alt="Java" width="45px" /> 
-            &nbsp; &nbsp;
-            <img align="center" src="assets/skills&tools/frameworks/spring-text.svg" alt="Spring" width="45px" /> 
-            &nbsp; &nbsp; 
-            <img width="45px" valign="center" align="center"  align="center" src="assets/skills&tools/skills/php.svg" alt="PHP 8" />
-            &nbsp; &nbsp;
-            <img width="45px" valign="center" align="center" src="assets/skills&tools/frameworks/laravel-text.svg" alt="Laravel" />
-            &nbsp; &nbsp; 
             <img width="45px" valign="center" align="center" src="assets/skills&tools/skills/mysql.svg" alt="MySQL" />
-            &nbsp; &nbsp; 
+            &nbsp;&nbsp;
             <img width="45px" valign="center" align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" />
-            &nbsp; &nbsp;
-            <img width="75px" valign="center" align="center" src="https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg" alt="Docker" />
-      </div>
+            &nbsp;&nbsp;
+            <img width="75px" valign="center" align="center" src="assets/skills&tools/skills/docker.svg" alt="Docker" />
+        </div>
     </div>
 </details>
 
 <br />
 <br />
 
-
 <!-- Stats Section -->
-
-<details open >
+<details open>
     <summary valign="center">
         <h2>My Stats <img width="30px" src="assets/gifs/stats2.gif"></h2>
-        <hr />
     </summary>
     <br />
     <div align="center" valign="center">
-        <!-- Languages Stats -->
+        <!-- Generated by GitHub Actions — see .github/workflows/update-stats.yml -->
         <picture>
-            <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=react&bg_color=00000000&langs_count=8" media="(prefers-color-scheme: dark)" />
-            <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&theme=vue&langs_count=8"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-            <img height="300px" valign="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioGc&layout=compact&langs_count=8" />
+            <source srcset="generated/langs-dark.svg" media="(prefers-color-scheme: dark)" />
+            <source srcset="generated/langs-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+            <img height="200px" width="350px" valign="center" src="generated/langs-light.svg" alt="Top Languages" />
         </picture>
         &nbsp;
-        <!-- Profile Stats -->
         <picture>
-            <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=true&theme=react&bg_color=00000000" 
-            media="(prefers-color-scheme: dark)" />
-            <source srcset="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&include_all_commits=true&count_private=truetheme=vue" 
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-            <img height="300px"  width="400px" src="https://github-readme-stats.vercel.app/api?username=ValerioGc&show_icons=true&count_private=true&include_all_commits=true" />
+            <source srcset="generated/stats-dark.svg" media="(prefers-color-scheme: dark)" />
+            <source srcset="generated/stats-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+            <img height="200px" width="400px" src="generated/stats-light.svg" alt="GitHub Stats" />
         </picture>
     </div>
 </details>
+
 <br />
 
 <br />
 
 <div align="center">
-    <img align="center" width="120px" align="center" src="https://komarev.com/ghpvc/?username=ValerioGc&&style=plastic" /> 
+    <img align="center" width="120px" src="https://komarev.com/ghpvc/?username=ValerioGc&&style=plastic" /> 
 </div>
