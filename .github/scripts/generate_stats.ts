@@ -224,10 +224,9 @@ const FONT = `font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvet
 
 function statssvg(data: StatsData, theme: Theme): string {
   const t = THEMES[theme];
-  const w = 420;
+  const w = 330;
   const h = 155;
   const metrics: [string, number][] = [
-    ["Stars", data.stars],
     ["Repos", data.repos],
     ["Commits", data.commits],
     ["PRs merged", data.prs],
@@ -253,7 +252,7 @@ function statssvg(data: StatsData, theme: Theme): string {
 
   return `<svg width="${w}" height="${h}" xmlns="http://www.w3.org/2000/svg" role="img">
   <title>GitHub Stats — ${USERNAME}</title>
-  <desc>Stars: ${data.stars}, Repos: ${data.repos}, Commits: ${data.commits}, PRs: ${data.prs}</desc>
+  <desc>Repos: ${data.repos}, Commits: ${data.commits}, PRs: ${data.prs}</desc>
   <rect width="${w}" height="${h}" rx="12" fill="${t.bg}" stroke="${t.border}" stroke-width="1"/>
   <text x="20" y="30" ${FONT} font-size="15" font-weight="600" fill="${t.accent}">GitHub Stats</text>
   <line x1="0" y1="45" x2="${w}" y2="45" stroke="${t.border}" stroke-width="0.5"/>
@@ -268,7 +267,7 @@ function langssvg(data: StatsData, theme: Theme): string {
   const t = THEMES[theme];
   const langs = data.langs.length ? data.langs : [{ name: "N/A", color: "#8B949E", pct: 100 }];
 
-  const BAR_W = 200;
+  const BAR_W = 155;
   const ROW_H = 22;
   const PADDING_TOP = 50;
   const PADDING_BOTTOM = 30;

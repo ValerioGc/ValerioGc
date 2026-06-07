@@ -28,6 +28,9 @@ jobs:
           GITHUB_USERNAME: ValerioGc
         run: npx --yes tsx .github/scripts/generate_stats.ts
 
+      - name: Generate skill badge SVGs
+        run: npx --yes tsx .github/scripts/generate_badges.ts
+
       - name: Commit and push generated files
         run: |
           git config user.name  "github-actions[bot]"
@@ -35,5 +38,5 @@ jobs:
           git add generated/
           # Only commit if something actually changed
           git diff --cached --quiet && echo "No changes to commit" && exit 0
-          git commit -m "chore: update stats cards [skip ci]"
+          git commit -m "chore: update generated assets [skip ci]"
           git push
