@@ -46,8 +46,6 @@
 &nbsp;<picture><source srcset="generated/badges/typescript-dark.svg" media="(prefers-color-scheme: dark)" /><img src="generated/badges/typescript-light.svg" height="32" alt="TypeScript" /></picture>
 &nbsp;<picture><source srcset="generated/badges/vuejs-dark.svg" media="(prefers-color-scheme: dark)" /><img src="generated/badges/vuejs-light.svg" height="32" alt="Vue.js" /></picture>
 &nbsp;<picture><source srcset="generated/badges/sass-dark.svg" media="(prefers-color-scheme: dark)" /><img src="generated/badges/sass-light.svg" height="32" alt="SASS" /></picture>
-&nbsp;<picture><source srcset="generated/badges/bootstrap-dark.svg" media="(prefers-color-scheme: dark)" /><img src="generated/badges/bootstrap-light.svg" height="32" alt="Bootstrap" /></picture>
-&nbsp;<picture><source srcset="generated/badges/jquery-dark.svg" media="(prefers-color-scheme: dark)" /><img src="generated/badges/jquery-light.svg" height="32" alt="jQuery" /></picture>
 
 <br/>
 
