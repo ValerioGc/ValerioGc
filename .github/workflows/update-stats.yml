@@ -1,0 +1,42 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    # Runs every day at 01:00 UTC
+    - cron: "0 1 * * *"
+  workflow_dispatch: # allows manual trigger from the Actions tab
+
+permissions:
+  contents: write  # needed to commit the generated SVGs
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Generate SVG stats cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ValerioGc
+        run: npx --yes tsx .github/scripts/generate_stats.ts
+
+      - name: Generate skill badge SVGs
+        run: npx --yes tsx .github/scripts/generate_badges.ts
+
+      - name: Commit and push generated files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add generated/
+          # Only commit if something actually changed
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "chore: update generated assets [skip ci]"
+          git push
